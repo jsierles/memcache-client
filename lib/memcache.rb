@@ -35,7 +35,7 @@ class MemCache
   ##
   # The version of MemCache you are using.
 
-  VERSION = '1.7.5.1'
+  VERSION = '1.7.6'
 
   ##
   # Default options for the cache object.
